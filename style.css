@@ -1,0 +1,18 @@
+* {
+	font-size: 100px;
+	text-align: center;
+	font-family: monospace;
+}
+body {
+	background-color: #08d3dd;
+	margin: 0;
+    padding: 0;
+}
+input {
+	margin: auto;
+	width: 500px;
+	
+}
+#button {
+	margin: left;
+}
